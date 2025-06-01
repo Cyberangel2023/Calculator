@@ -1,0 +1,6 @@
+﻿  test.c
+D:\code\VS\Project\Project6（计算器（加减乘除））\test.c(176,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\VS\Project\Project6（计算器（加减乘除））\test.c(217,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\VS\Project\Project6（计算器（加减乘除））\test.c(62): warning C4715: “Cal”: 不是所有的控件路径都返回值
+D:\code\VS\Project\Project6（计算器（加减乘除））\test.c(113): warning C4715: “Opt”: 不是所有的控件路径都返回值
+  Project6.vcxproj -> D:\code\VS\Project\Project6（计算器（加减乘除））\x64\Debug\Project6.exe

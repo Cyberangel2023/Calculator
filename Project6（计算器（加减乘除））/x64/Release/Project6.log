@@ -1,0 +1,9 @@
+﻿  test.c
+D:\code\VS\Project\Project6（计算器（加减乘除））\test.c(176,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\VS\Project\Project6（计算器（加减乘除））\test.c(217,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project6.vcxproj -> D:\code\VS\Project\Project6（计算器（加减乘除））\x64\Release\Project6.exe
